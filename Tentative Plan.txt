@@ -1,0 +1,17 @@
+Complex Number Calculations:
+1. Define class and functions as instructed
+2. Pass values as instructed
+3. Test, verify, and correct if needed
+4. ETC: 120 Minutes
+
+Pandas Data:
+1. Load dataset and map to abbreviations dataset
+2. Clean-up NaN values
+3. Coimpute holdings, and add $ synmbol
+4. Append records
+5. Pie chart
+6. ETC: 180 Minutes
+
+Pandas MiniChallenges:
+1. Resolve
+2. ETC: 60 Minutes
